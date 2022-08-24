@@ -35,9 +35,20 @@
 }
 
 .black {
-  background-color: rgb(253, 11, 11);
+  background-color: rgb(154, 136, 136);
 }
 
 .white {
   background-color: rgb(235, 191, 108);
+}
+
+.selected {
+  background-color: brown;
+}
+
+.available {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: green;
 }
